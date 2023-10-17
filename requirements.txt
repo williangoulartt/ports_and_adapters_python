@@ -1,0 +1,10 @@
+fastapi~=0.103.2
+uvicorn
+azure-common==1.1.28
+azure-core==1.29.4
+azure-mgmt-core==1.4.0
+azure-mgmt-resource==23.0.1
+azure-cosmos==4.5.1
+pydantic==2.4.2
+SQLAlchemy==2.0.21
+python-decouple==3.8
